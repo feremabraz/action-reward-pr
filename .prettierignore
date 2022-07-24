@@ -1,0 +1,7 @@
+node_modules
+dist
+assets
+pnpm-lock.yaml
+.gitignore
+.prettierignore
+.eslintignore
