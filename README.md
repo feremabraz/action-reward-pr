@@ -1,6 +1,6 @@
 # Action Reward
 
-Github Action which comments on your PRs with a GIF as a reward for pushing code to Gamekaiju repositories.
+Github Action which comments on contributor's PRs with a GIF as a reward for pushing code.
 
 ![Example](assets/01.gif)
 
