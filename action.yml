@@ -1,0 +1,13 @@
+name: 'Action Reward PR'
+description: 'Posts a GIF on every PR as a reward for pushing code.'
+author: 'Fernando Braz <fb@gamekaiju.monster>'
+branding:
+  icon: 'code'
+  color: 'blue'
+inputs:
+  GITHUB_TOKEN:
+    description: 'Github Token for this repository.'
+    required: true
+runs:
+  using: 'node16'
+  main: 'bundle/index.js'
